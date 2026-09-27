@@ -1,0 +1,15 @@
+# Raw datasets
+data.csv
+
+# MySQL files
+.sql.bak
+
+# Python
+__pycache__
+.pyc
+
+# IDE  OS
+.vscode
+.idea
+.DS_Store
+Thumbs.db
